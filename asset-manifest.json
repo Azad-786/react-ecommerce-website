@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-ecommerce-website/static/css/main.ec9c15c8.css",
+    "main.js": "/react-ecommerce-website/static/js/main.728f6143.js",
+    "static/media/slider-img-3.png": "/react-ecommerce-website/static/media/slider-img-3.01fbbf06467ad2079734.png",
+    "static/media/slider-img-2.png": "/react-ecommerce-website/static/media/slider-img-2.2eedc5a58f1ce73d5b0a.png",
+    "static/media/slider-img-1.png": "/react-ecommerce-website/static/media/slider-img-1.b7a307d15eedd0ac5c20.png",
+    "static/media/error.png": "/react-ecommerce-website/static/media/error.923fd4a571feb41f1f1f.png",
+    "static/media/slick.svg": "/react-ecommerce-website/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/react-ecommerce-website/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/react-ecommerce-website/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/react-ecommerce-website/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/react-ecommerce-website/index.html",
+    "static/media/spinner.svg": "/react-ecommerce-website/static/media/spinner.2498f9d3fee61f4ded35bedf651dc405.svg",
+    "main.ec9c15c8.css.map": "/react-ecommerce-website/static/css/main.ec9c15c8.css.map",
+    "main.728f6143.js.map": "/react-ecommerce-website/static/js/main.728f6143.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec9c15c8.css",
+    "static/js/main.728f6143.js"
+  ]
+}
